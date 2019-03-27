@@ -1,5 +1,5 @@
 {
-  "name": "@darklight721/reactstrap",
+  "name": "reactstrap",
   "version": "7.2.0",
   "description": "React Bootstrap 4 components",
   "main": "lib/index.js",
